@@ -1,0 +1,19 @@
+# Executable
+cub3D
+Cub3D
+
+# Object and archive files
+obj/
+*.o
+*.a
+
+# Sub-library builds
+libft/libft.a
+libft/obj/
+minilibx-linux/
+
+
+# Temporary & Editor
+.DS_Store
+*.swp
+*~
